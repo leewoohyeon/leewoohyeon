@@ -4,7 +4,7 @@
     <br/> <br/> 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙇‍♀️ 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 디자인 감각을 갖춘 웹 퍼블리셔 겸 프론트엔드 개발자로,</li>UI를 보기 좋고 유지하기 쉽게 만드는 일을 좋아합니다.</li></li>그래픽 디자인부터 반응형 퍼블리싱, React 기반 개발까지</li>폭넓게 다루며 기획 의도를 화면으로 구현하는 데 강점이 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 디자인 감각을 갖춘 웹 퍼블리셔 겸 프론트엔드 개발자로,UI를 보기 좋고 유지하기 쉽게 만드는 일을 좋아합니다. 그래픽 디자인부터 반응형 퍼블리싱, React 기반 개발까지 폭넓게 다루며 기획 의도를 화면으로 구현합니다. </div> 
     </div>
      <br/> <br/> 
     <div style="text-align: left;">
