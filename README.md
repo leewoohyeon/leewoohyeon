@@ -24,10 +24,10 @@
    <br/> <br/> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
+    <!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=leewoohyeon&bg_color=180,ffe0ed,00000000&title_color=e1338a&text_color=e1338a"/> 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewoohyeon&layout=compact&bg_color=180,ffe0ed,00000000&title_color=e1338a&text_color=e1338a"/> 
-    </div>
+    </div> -->
     <br/> <br/> 
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📬 Contact me </h2> <br> 
